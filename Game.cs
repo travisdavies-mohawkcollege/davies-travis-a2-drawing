@@ -12,7 +12,7 @@ namespace MohawkGame2D
     public class Game
     {
         // Place your variables here:
-        int doorState = 0;
+        int doorState = 1;
 
         /// <summary>
         ///     Setup runs once before the game loop begins.
